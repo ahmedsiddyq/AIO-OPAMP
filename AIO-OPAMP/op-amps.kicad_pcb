@@ -10678,7 +10678,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "noninverting\nintpot"
+	(gr_text "noninverting\nintput"
 		(at 152.84 70.68 0)
 		(layer "F.SilkS")
 		(uuid "0ff6f2f6-de4a-4098-abca-2dee1e129f41")
@@ -10786,7 +10786,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "noninverting\noutpot"
+	(gr_text "noninverting\nintput"
 		(at 272.51 70.11 0)
 		(layer "F.SilkS")
 		(uuid "703f3ed3-a651-4b26-8794-ff27e68ada36")
@@ -10846,7 +10846,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "buffer\noutpot"
+	(gr_text "buffer\nintput"
 		(at 272.57 88.51 0)
 		(layer "F.SilkS")
 		(uuid "aa439687-1adb-4054-b29e-da3accc6df58")
@@ -10858,7 +10858,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "inverting\noutpot"
+	(gr_text "inverting\nintput"
 		(at 272.4 79.51 0)
 		(layer "F.SilkS")
 		(uuid "b84fece2-f145-43d2-bd06-b1ec0cf3d572")
@@ -10906,7 +10906,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "buffer\nintpot"
+	(gr_text "buffer\nintput"
 		(at 152.9 88.08 0)
 		(layer "F.SilkS")
 		(uuid "e5ff175c-bf5e-4a6c-b71e-65c53ec7a592")
@@ -10918,7 +10918,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "inverting\nintpot"
+	(gr_text "inverting\nintput"
 		(at 152.73 80.08 0)
 		(layer "F.SilkS")
 		(uuid "e7fdbbff-eaea-4cbd-8258-f1600e9826dc")
