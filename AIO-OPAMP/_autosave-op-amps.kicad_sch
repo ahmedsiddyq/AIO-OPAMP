@@ -7808,7 +7808,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee25389a-1ec8-47d6-a4d7-d86cc2f13564")
 		(property "Reference" "J17"
 			(at 93.98 33.6549 90)
@@ -7820,7 +7819,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 93.98 36.1949 90)
+			(at 94.488 30.988 90)
 			(effects
 				(font
 					(size 1.27 1.27)
