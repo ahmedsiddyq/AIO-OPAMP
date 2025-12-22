@@ -5848,7 +5848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 63.5 168.91 0)
 			(effects
 				(font
@@ -6460,75 +6460,6 @@
 			(project ""
 				(path "/c34ac04a-e4f5-4628-be37-51d1c442a230"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 35.56 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab2629c8-21d7-4988-9c75-84317d7d2d49")
-		(property "Reference" "C1"
-			(at 39.37 109.6009 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Polarized"
-			(at 32.258 115.316 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
-			(at 36.5252 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 35.56 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f2b07708-4eb2-47bf-b7ed-0d18ab9d7594")
-		)
-		(pin "2"
-			(uuid "e9514d9f-348d-479c-9a3e-fb5a408e75eb")
-		)
-		(instances
-			(project "op-amps"
-				(path "/c34ac04a-e4f5-4628-be37-51d1c442a230"
-					(reference "C1")
 					(unit 1)
 				)
 			)
